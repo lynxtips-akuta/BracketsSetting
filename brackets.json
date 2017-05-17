@@ -1,0 +1,10 @@
+{
+    "fonts.fontSize": "17px",
+    "fonts.fontFamily": "'SourceCodePro-Medium', ＭＳ ゴシック, 'MS Gothic', monospace",
+    "custom.work.useIconsOfCustomWork": true,
+    "custom.work.moveToolbarToSidebar": true,
+    "custom.work.grayScaleIcons": true,
+    "custom.work.toggle.sidebar": true,
+    "custom.work.autoHideTheTabmenu": true,
+    "custom.work.scrollwheel": true
+}
