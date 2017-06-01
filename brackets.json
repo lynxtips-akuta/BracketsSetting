@@ -6,5 +6,7 @@
     "custom.work.grayScaleIcons": true,
     "custom.work.toggle.sidebar": true,
     "custom.work.autoHideTheTabmenu": true,
-    "custom.work.scrollwheel": true
+    "custom.work.scrollwheel": true,
+    "useTabChar": true,
+    "spaceUnits": 2
 }
